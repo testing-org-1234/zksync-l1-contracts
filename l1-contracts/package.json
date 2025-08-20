@@ -96,6 +96,7 @@
     "errors-lint": "ts-node scripts/errors-lint.ts"
   },
   "dependencies": {
+    "@matterlabs/hardhat-zksync-solc": "^1.5.1",
     "dotenv": "^16.0.3",
     "solhint-plugin-prettier": "^0.0.5"
   }
